@@ -1,0 +1,6 @@
+mysql-bin.*
+.idea
+output/
+*.exe
+*.txt
+bin
